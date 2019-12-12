@@ -1,6 +1,0 @@
-version: '3'
-services:
-  node:
-    image: casestudiesnbs/node-backed
-    ports:
-      - "4500:4500"
